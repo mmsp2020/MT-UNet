@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Juan F. Montesinos"
   avatar           : "profile.png"
-  bio              : "PhD student in Pompeu Fabra University"
+  bio              : "PhD student in Pompeu Fabra University. Working in audiovisual modality using ML"
   location         : "Barcelona"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "juanfelipe.montesinos@upf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

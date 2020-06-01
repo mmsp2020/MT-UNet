@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juan Montesinos - Data Scientist"
+title                    : "Juan Montesinos"
 title_separator          : "-"
 name                     : &name "Juan Montesinos"
-description              : &description "personal description"
+description              : &description "Data Scientist"
 url                      : https://www.juanmontesinos.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"

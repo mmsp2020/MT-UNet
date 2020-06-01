@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD student at [Pompeu Fabra University](https://www.upf.edu/web/campus/campus-poblenou) in Barcelona.
 
-![upf](/images/upf.jpg "UPF Campus Poblenou") 
+![upf](/images/upf.jpg "UPF Campus Poblenou")  
 <sub><sup>Image credits: [Ariel Ramírez](http://www.arielramirez.es/commissioned-work/arquitectura/pompeu-fabra-university-campus-aia-salazar-navarro/)</sup></sub>  
 My main research line is focused on audiovisual content. Audiovisual content leverages on the co-ocurrence of an even in the real world in both, the audio signal and visual signal, that we percieve.  
 
